@@ -1,0 +1,17 @@
+{
+  "name": "myGulpPack",
+  "version": "0.0.0",
+  "authors": [
+    "Amir Gafurov <gafurovamir@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components"
+  ],
+  "dependencies": {
+    "foundation-sites": "^6.1.2",
+    "owl.carousel": "^2.1.6"
+  }
+}
